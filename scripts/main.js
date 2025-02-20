@@ -1,13 +1,4 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
-/*
-Variable naming convention: <object>_<action>_<objectname>; Example -> Button_click_b1;
-*/
 
 //Variables (BE CAREFUL THESE MIGHT BE USED IN OTHER JS FILES TOO)
 var inp_as = document.getElementById('a_size'), array_size = inp_as.value;
@@ -130,9 +121,4 @@ function reset_array() {
     document.getElementById("a_speed_display").textContent = inp_aspeed.value;
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
+
